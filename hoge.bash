@@ -1,5 +1,9 @@
 #!/bin/bash
+
 # writtenn by Yuya-Takeuchi
+
+
+
 
 echo hoge
 echo hoge
